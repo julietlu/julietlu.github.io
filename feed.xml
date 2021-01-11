@@ -3,12 +3,33 @@
     <title>julietlu.com</title>
     <link href="https://julietlu.github.io/julietlu.github.io/feed.xml" rel="self" />
     <link href="https://julietlu.github.io/julietlu.github.io" />
-    <updated>2021-01-11T14:29:48-05:00</updated>
+    <updated>2021-01-11T15:48:24-05:00</updated>
     <author>
         <name>Juliet Lu</name>
     </author>
     <id>https://julietlu.github.io/julietlu.github.io</id>
 
+    <entry>
+        <title>Research</title>
+        <author>
+            <name>Juliet Lu</name>
+        </author>
+        <link href="https://julietlu.github.io/julietlu.github.io/research.html"/>
+        <id>https://julietlu.github.io/julietlu.github.io/research.html</id>
+
+        <updated>2021-01-11T15:48:24-05:00</updated>
+            <summary>
+                <![CDATA[
+                    To be completed…
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>To be completed…</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bio/About</title>
         <author>

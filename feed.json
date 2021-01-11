@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://julietlu.github.io/julietlu.github.io/research.html",
+            "url": "https://julietlu.github.io/julietlu.github.io/research.html",
+            "title": "Research",
+            "summary": "To be completed…",
+            "content_html": "<p>To be completed…</p>\n",
+            "author": {
+                "name": "Juliet Lu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-11T15:48:24-05:00",
+            "date_modified": "2021-01-11T15:48:24-05:00"
+        },
+        {
             "id": "https://julietlu.github.io/julietlu.github.io/bioabout.html",
             "url": "https://julietlu.github.io/julietlu.github.io/bioabout.html",
             "title": "Bio/About",
