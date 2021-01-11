@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://julietlu.github.io/julietlu.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://julietlu.github.io/website/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://julietlu.github.io/julietlu.github.io/</loc>
+<loc>https://julietlu.github.io/website/</loc>
 </url>
 <url>
-<loc>https://julietlu.github.io/julietlu.github.io/bioabout.html</loc>
+<loc>https://julietlu.github.io/website/bioabout.html</loc>
 <lastmod>2021-01-11T14:29:48-05:00</lastmod>
-</url>
-<url>
-<loc>https://julietlu.github.io/julietlu.github.io/research.html</loc>
-<lastmod>2021-01-11T15:48:24-05:00</lastmod>
 </url>
 </urlset>

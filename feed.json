@@ -2,30 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "julietlu.com",
     "description": "",
-    "home_page_url": "https://julietlu.github.io/julietlu.github.io",
-    "feed_url": "https://julietlu.github.io/julietlu.github.io/feed.json",
+    "home_page_url": "https://julietlu.github.io/website",
+    "feed_url": "https://julietlu.github.io/website/feed.json",
     "user_comment": "",
     "author": {
         "name": "Juliet Lu"
     },
     "items": [
         {
-            "id": "https://julietlu.github.io/julietlu.github.io/research.html",
-            "url": "https://julietlu.github.io/julietlu.github.io/research.html",
-            "title": "Research",
-            "summary": "To be completed…",
-            "content_html": "<p>To be completed…</p>\n",
-            "author": {
-                "name": "Juliet Lu"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-01-11T15:48:24-05:00",
-            "date_modified": "2021-01-11T15:48:24-05:00"
-        },
-        {
-            "id": "https://julietlu.github.io/julietlu.github.io/bioabout.html",
-            "url": "https://julietlu.github.io/julietlu.github.io/bioabout.html",
+            "id": "https://julietlu.github.io/website/bioabout.html",
+            "url": "https://julietlu.github.io/website/bioabout.html",
             "title": "Bio/About",
             "summary": "I am a political ecologist with a focus on the implications of China’s growing investments in land and other resources across the world. I draw on and aim to contribute to conversations in the fields of geography, sociology, and anthropology. While I engage with a&hellip;",
             "content_html": "<p>I am a political ecologist with a focus on the implications of China’s growing investments in land and other resources across the world. I draw on and aim to contribute to conversations in the fields of geography, sociology, and anthropology. While I engage with a variety of sources of data and methods, I focus on local cases I consider reflective of global trends and prioritize the collection of on-the-ground empirical data through long-term field work in China, Laos.</p>\n<p>My dissertation (UC Berkeley) explored the rapid rise in Chinese agribusiness investments in Laos, with a focus on rubber plantations. It highlights connections between the Chinese state and companies (state and private) operating beyond its borders, the territorial dimensions of the plantation economy in contrast to smallholder production, and how crops seen as having ‘strategic’ importance to national development shape livelihoods, environments, and trajectories of agrarian change differently. </p>\n<p>In my postdoctoral work, I expand my focus to China’s role in the global rubber supply chain. I ask how emerging private sector, civil society, and state initiatives for sustainable rubber engage Chinese stakeholders and, vice versa, how Chinese actors along the rubber supply chain understand and adapt to these calls for sustainability. </p>\n<p>In my research, writing, and teaching work, connecting with an interdisciplinary set of debates with relevance to academics, policymakers, and the general public is my priority. I consider these engagements important to enhancing the quality and relevance of my work and inspiring the broader direction of my scholarly inquiries. </p>\n",
