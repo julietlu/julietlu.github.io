@@ -1,34 +1,290 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>julietlu.com</title>
+    <title>Juliet Lu, PhD</title>
     <link href="https://julietlu.com/feed.xml" rel="self" />
     <link href="https://julietlu.com" />
-    <updated>2021-01-11T14:29:48-05:00</updated>
+    <updated>2021-02-04T18:06:02-05:00</updated>
     <author>
         <name>Juliet Lu</name>
     </author>
     <id>https://julietlu.com</id>
 
     <entry>
-        <title>Bio/About</title>
+        <title>China</title>
+        <author>
+            <name>Juliet Lu</name>
+        </author>
+        <link href="https://julietlu.com/china.html"/>
+        <id>https://julietlu.com/china.html</id>
+
+        <updated>2021-01-18T21:10:08-05:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_1277-2.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_1277-2-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_1275.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_1275-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0540.JPG" data-size="2048x1536"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0540-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0436.JPG" data-size="2048x1536"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0436-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0424.JPG" data-size="2048x1536"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0424-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0862.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0862-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0830.JPG" data-size="2048x1536"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0830-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0821.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0821-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0786.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0786-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0738.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0738-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0706.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0706-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0707.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0707-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0704.JPG" data-size="1200x1600"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0704-thumbnail.JPG" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0683.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0683-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_1006.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_1006-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0531.JPG" data-size="2048x1536"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0531-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0497.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0497-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0470.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0470-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0591.JPG" data-size="2048x1536"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0591-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0426.JPG" data-size="2048x1536"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0426-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0852.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0852-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_08301.JPG" data-size="2048x1536"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_08301-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_08211.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_08211-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0779.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0779-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0769.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0769-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0770.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0770-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0762.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0762-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0758.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0758-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_07061.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_07061-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_0699.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_0699-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_1005.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_1005-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/DSC05061.JPG" data-size="2592x1944"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/DSC05061-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/DSC05058.JPG" data-size="2592x1944"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/DSC05058-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_1239.JPG" data-size="1600x1200"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_1239-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_1452.JPG" data-size="2816x2112"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_1452-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_1446.JPG" data-size="2816x2112"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_1446-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/9/gallery/IMG_1378.JPG" data-size="2816x2112"><img loading="lazy" src="https://julietlu.com/media/posts/9/gallery/IMG_1378-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Field Work</title>
+        <author>
+            <name>Juliet Lu</name>
+        </author>
+        <link href="https://julietlu.com/laos.html"/>
+        <id>https://julietlu.com/laos.html</id>
+
+        <updated>2021-02-04T16:23:19-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Laos China
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">Laos</h2>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_3317.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_3317-thumbnail.jpg" alt="Juliet and man" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_4128.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_4128-thumbnail.jpg" alt="Juliet in the field" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/20140730_094503_RichtoneHDR.jpg" data-size="4128x2322"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/20140730_094503_RichtoneHDR-thumbnail.jpg" alt="Landscape" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_9077.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_9077-thumbnail.jpg" alt="People sitting together" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_6590.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_6590-thumbnail.jpg" alt="Incomplete building" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_3339.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_3339-thumbnail.jpg" alt="Moutains" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_3390.jpg" data-size="12156x3628"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_3390-thumbnail.jpg" alt="Moutains" width="720" height="215"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/47AF64DE-696A-40F4-99C4-C173A36F316E.jpg" data-size="2048x2048"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/47AF64DE-696A-40F4-99C4-C173A36F316E-thumbnail.jpg" alt="Building and sign" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_4236.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_4236-thumbnail.jpg" alt="Mush" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_4272.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_4272-thumbnail.jpg" alt="Market" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_4274.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_4274-thumbnail.jpg" alt="Market" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_4581.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_4581-thumbnail.jpg" alt="Photo" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_4638.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_4638-thumbnail.jpg" alt="River" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_4665.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_4665-thumbnail.jpg" alt="Trees" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_4800.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_4800-thumbnail.jpg" alt="Sign" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_4953-2.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_4953-2-thumbnail.jpg" alt="Dirt" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_4958.jpg" data-size="3024x4032"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_4958-thumbnail.jpg" alt="Dirt" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_5024.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_5024-thumbnail.jpg" alt="People gathered outdoors" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_5031.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_5031-thumbnail.jpg" alt="People gathered outdoors" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_5077.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_5077-thumbnail.jpg" alt="Mountain" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_5193.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_5193-thumbnail.jpg" alt="Swamp" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_5241.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_5241-thumbnail.jpg" alt="Mountain" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_5248.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_5248-thumbnail.jpg" alt="Bush" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_5457.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_5457-thumbnail.jpg" alt="Mountain" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_5499.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_5499-thumbnail.jpg" alt="Outdoors" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_5525.jpg" data-size="3024x4032"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_5525-thumbnail.jpg" alt="Photos" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_5527.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_5527-thumbnail.jpg" alt="Child" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_5519.jpg" data-size="4032x3024"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_5519-thumbnail.jpg" alt="Photo of classroom" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://julietlu.com/media/posts/8/gallery/IMG_5513.jpg" data-size="3024x4032"><img loading="lazy" src="https://julietlu.com/media/posts/8/gallery/IMG_5513-thumbnail.jpg" alt="Photo of trailer truck" width="720" height="960"></a></figure>
+</div></div>
+<h2> </h2>
+<h2 class="align-center">China</h2>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1277-2.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1277-2-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1275.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1275-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0540.JPG" data-size="2048x1536"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0540-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0436.JPG" data-size="2048x1536"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0436-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0424.JPG" data-size="2048x1536"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0424-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0862.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0862-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0830.JPG" data-size="2048x1536"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0830-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0821.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0821-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0786.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0786-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0738.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0738-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0706.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0706-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0707.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0707-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0704.JPG" data-size="1200x1600"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0704-thumbnail.JPG" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0683.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0683-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1006.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1006-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0531.JPG" data-size="2048x1536"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0531-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0497.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0497-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0470.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0470-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0591.JPG" data-size="2048x1536"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0591-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0426.JPG" data-size="2048x1536"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0426-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0852.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0852-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_08301.JPG" data-size="2048x1536"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_08301-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_08211.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_08211-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0779.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0779-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0769.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0769-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0770.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0770-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0762.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0762-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0758.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0758-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_07061.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_07061-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0699.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_0699-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1005.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1005-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/DSC05061.JPG" data-size="2592x1944"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/DSC05061-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/DSC05058.JPG" data-size="2592x1944"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/DSC05058-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1239.JPG" data-size="1600x1200"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1239-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1452.JPG" data-size="2816x2112"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1452-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1446.JPG" data-size="2816x2112"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1446-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1378.JPG" data-size="2816x2112"><img loading="lazy" src="file:///Users/japki/Documents/Publii/sites/juliet-website-by-jada/input/media/posts/9/gallery/IMG_1378-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Recent Work</title>
+        <author>
+            <name>Juliet Lu</name>
+        </author>
+        <link href="https://julietlu.com/publications.html"/>
+        <id>https://julietlu.com/publications.html</id>
+
+        <updated>2021-02-04T18:06:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Selected PublicationsDissertation Lu, J. N. (2020). Rubber’s Reach: Chinese land investments and state territorialization in the Sino-Lao borderlands. UC Berkeley. ProQuest ID: Lu_berkeley_0028E_19993. Merritt&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Selected Publications</h2>
+<p><strong>Dissertation </strong></p>
+<p>Lu, J. N. (2020). Rubber’s Reach: Chinese land investments and state territorialization in the Sino-Lao borderlands. <em>UC Berkeley</em>. ProQuest ID: Lu_berkeley_0028E_19993. Merritt ID: ark:/13030/m5bs486x. Retrieved from <a href="https://escholarship.org/uc/item/8q36k9v9">https://escholarship.org/uc/item/8q36k9v9</a></p>
+<p><strong>Peer Reviewed Articles</strong></p>
+<p>Lu, J. (2020). Grounding Chinese investment: Encounters between Chinese capital and local land politics in Laos. <i>Globalizations</i>, <i>18</i>(3), 422–440. <a href="https://doi.org/10.1080/14747731.2020.1796159">https://doi.org/10.1080/14747731.2020.1796159</a></p>
+<p>Lu, Juliet N., &amp; Schönweger, O. (2019). "Great expectations: Chinese investment in Laos and the myth of empty land." <em>Territory, Politics, Governance</em>. 1-18. <a href="http://www.tandfonline.com/doi/abs/10.1080/21622671.2017.1360195">http://www.tandfonline.com/doi/abs/10.1080/21622671.2017.1360195</a></p>
+<p>Lu, Juliet N. (2017). "Tapping into rubber: China’s opium replacement program and rubber production in Laos." The Journal of Peasant Studies 44 (4): 726-747. <a href="http://www.tandfonline.com/doi/abs/10.1080/03066150.2017.1314268?needAccess=true">http://www.tandfonline.com/doi/abs/10.1080/03066150.2017.1314268?needAcc...</a></p>
+<p><strong>Book Chapters</strong></p>
+<p>Lu, Juliet N. (2017). Development Cooperation with Chinese Characteristics: Opium Replacement and Chinese Rubber Investments in Northern Laos. In China's Backyard: Policies and Politics of Chinese Resource Investments in Southeast Asia: 332. ISEAS - Yusof Ishak Institute.</p>
+<p><strong>Reports<br></strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">H Smith, J Lu, PX To, S Mienmany, K Soukphaxay. (2020). Rubber Plantation Value Chains in Laos: Opportunities and Constraints in Policy, Legality and Wood Processing. </span><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">ACIAR project</em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">. </span><a href="http://laoplantation.org/wp-content/uploads/2020/07/Rubber-Plantation-Value-Chains-in-Laos-30-June-.pdf" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">http://laoplantation.org/wp-content/uploads/2020/07/Rubber-Plantation-Value-Chains-in-Laos-30-June-.pdf</a><strong><br></strong></p>
+<div class="csl-bib-body">
+<div> </div>
+<div><span class="person_name">Hett, Cornelia</span>; <span class="person_name">Nanhthavong, Vong</span>; <span class="person_name">Hanephom, Savanh</span>; <span class="person_name">Phommachanh, Anongsone</span>; <span class="person_name">Sidavong, Boungnong</span>; <span class="person_name">Phouangphet, Ketkeo</span>; <span class="person_name">Epprecht, Michael</span>; <span class="person_name">Lu, Juliet</span>; <span class="person_name">Shattuck, Annie</span>; <span class="person_name">Ingalls, Micah</span>; <span class="person_name">Bernhard, Rasso</span>; <span class="person_name">Phathitmixay, Souphaphone</span>; <span class="person_name">Phomphakdy, Chanthavone</span>; <span class="person_name">Heinimann, Andreas</span> (2019). <em>Land deals in the Lao PDR: A characterization of investments in land and their impacts (In Press). </em>Bern: Bern Open Publishing</div>
+<div><a href="https://boris.unibe.ch/133115/">https://boris.unibe.ch/133115/</a></div>
+<div> </div>
+<div>Schönweger, O., Heinimann, A., Epprecht, M., Lu, J., &amp; Thalongsengchanh, P. (2012). "Concessions and leases in the Lao PDR: Taking stock of land investments." <em>Geographica Bernensis</em>, Vientiane, Laos &amp; Bern, Switzerland.</div>
+<div><a href="https://doc.rero.ch/record/31701/files/07-Concessions-Leases-LaoPDR.pdf">https://doc.rero.ch/record/31701/files/07-Concessions-Leases-LaoPDR.pdf</a></div>
+<div> </div>
+<div>
+<div>
+<h2>Other Communications</h2>
+<p><strong>Belt and Road Podcast (Co-Host with Erik Myxter-Iino: </strong>Covering the latest news, research and analysis of China's growing presence in the developing world.</p>
+<p>Listen on <a href="https://t.co/HZTtAxqTr4?amp=1" target="_blank" rel="noopener noreferrer">Apple</a> or <a href="https://t.co/9HVorzFk5G?amp=1" target="_blank" rel="noopener noreferrer">Spotify</a> | Follow us on <a href="https://twitter.com/beltandroadpod" target="_blank" rel="noopener noreferrer">Twitter</a> and <a href="https://www.facebook.com/beltandroadpod" target="_blank" rel="noopener noreferrer">Facebook</a> @beltandroadpodcast</p>
+<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Lu, J. N. (2020). Strategic Resources and Chinese State Capital: A View from Laos. </span><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Made In China: The Work Of Arts January–April 2020</em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">. </span><a href="https://madeinchinajournal.com/2020/05/06/strategic-resources-and-chinese-state-capital/" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">https://madeinchinajournal.com/2020/05/06/strategic-resources-and-chinese-state-capital/</a></p>
+<p class="title style-scope ytd-video-primary-info-renderer"><strong>China's Capitalism and the World: </strong><a href="https://www.youtube.com/watch?v=CO6-erfho0U&amp;feature=youtu.be" target="_blank" rel="noopener noreferrer">Panel with Critical China Scholars</a></p>
+<p><strong>Upcoming Events</strong></p>
+<p> </p>
+<p> </p>
+</div>
+<div> </div>
+</div>
+<div> </div>
+<div> </div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Research and Projects</title>
+        <author>
+            <name>Juliet Lu</name>
+        </author>
+        <link href="https://julietlu.com/research-and-projects.html"/>
+        <id>https://julietlu.com/research-and-projects.html</id>
+
+        <updated>2021-02-04T16:18:04-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Chinese Overseas Land Investments China’s rise is reshaping global capitalism with profound impacts on patterns of resource consumption and trajectories for sustainable development&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-left"><strong>Chinese Overseas Land Investments</strong></p>
+<p class="align-left smallspace">China’s rise is reshaping global capitalism with profound impacts on patterns of resource consumption and trajectories for sustainable development beyond its borders. My dissertation research examined the political economy of Chinese rubber investments - one of the most extensive forms of Chinese agricultural investment in the Mekong Region. I looked at the history of rubber production in China, particularly at its status as a ‘strategic resource’ and the importance of the State Farms system in the domestic rubber sector. I then examined the Chinese and Lao state policies that drove a boom in rubber across northern Laos in the 2000s, and the ways Chinese companies have negotiated and competed for access to land, labor, and market share. My findings contribute to broader understandings of how land grabs unfold on the ground, the influence of the Chinese state over its companies operating abroad, and power dynamics between Chinese investors and actors in host countries - from state officials, to plantation workers, to local land users.</p>
+<div class="row">
+<div class="column"><img loading="lazy" style="width: 100%;" src="https://julietlu.com/media/posts/6/IMG_5241-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://julietlu.com/media/posts/6/responsive/IMG_5241-2-xs.jpg 300w ,https://julietlu.com/media/posts/6/responsive/IMG_5241-2-sm.jpg 480w ,https://julietlu.com/media/posts/6/responsive/IMG_5241-2-md.jpg 768w ,https://julietlu.com/media/posts/6/responsive/IMG_5241-2-lg.jpg 1024w ,https://julietlu.com/media/posts/6/responsive/IMG_5241-2-xl.jpg 1360w ,https://julietlu.com/media/posts/6/responsive/IMG_5241-2-2xl.jpg 1600w"  alt="Field"></div>
+<div class="column"><img loading="lazy" style="width: 100%;" src="https://julietlu.com/media/posts/6/IMG_0767.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://julietlu.com/media/posts/6/responsive/IMG_0767-xs.JPG 300w ,https://julietlu.com/media/posts/6/responsive/IMG_0767-sm.JPG 480w ,https://julietlu.com/media/posts/6/responsive/IMG_0767-md.JPG 768w ,https://julietlu.com/media/posts/6/responsive/IMG_0767-lg.JPG 1024w ,https://julietlu.com/media/posts/6/responsive/IMG_0767-xl.JPG 1360w ,https://julietlu.com/media/posts/6/responsive/IMG_0767-2xl.JPG 1600w"  alt="Flags in front building"></div>
+</div>
+<p> </p>
+<p class="align-left"><strong>Crop Booms and Plantation Politics</strong></p>
+<p class="align-left smallspace">I have a long standing interest in the tradeoffs between intensive monoculture plantation production and alternative systems of agriculture. In collaboration with a group of land use scientists, critical agrarian scholars, and political ecologists working across Southeast Asia, I am currently exploring the rise of crop booms in border regions and their implications for trajectories of agrarian change, rural development, and the environment.</p>
+<div class="row">
+<div class="column"><img loading="lazy" style="width: 100%;" src="https://julietlu.com/media/posts/6/IMG_1277-2.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://julietlu.com/media/posts/6/responsive/IMG_1277-2-xs.JPG 300w ,https://julietlu.com/media/posts/6/responsive/IMG_1277-2-sm.JPG 480w ,https://julietlu.com/media/posts/6/responsive/IMG_1277-2-md.JPG 768w ,https://julietlu.com/media/posts/6/responsive/IMG_1277-2-lg.JPG 1024w ,https://julietlu.com/media/posts/6/responsive/IMG_1277-2-xl.JPG 1360w ,https://julietlu.com/media/posts/6/responsive/IMG_1277-2-2xl.JPG 1600w"  alt=""></div>
+<div class="column"><img loading="lazy" style="width: 100%;" src="https://julietlu.com/media/posts/6/IMG_3339.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://julietlu.com/media/posts/6/responsive/IMG_3339-xs.jpg 300w ,https://julietlu.com/media/posts/6/responsive/IMG_3339-sm.jpg 480w ,https://julietlu.com/media/posts/6/responsive/IMG_3339-md.jpg 768w ,https://julietlu.com/media/posts/6/responsive/IMG_3339-lg.jpg 1024w ,https://julietlu.com/media/posts/6/responsive/IMG_3339-xl.jpg 1360w ,https://julietlu.com/media/posts/6/responsive/IMG_3339-2xl.jpg 1600w"  alt=""></div>
+</div>
+<p> </p>
+<p><strong>Sustainable Rubber</strong></p>
+<p class="align-left smallspace">Monoculture rubber plantations have expanded dramatically across Southeast Asia, particularly in the last two decades, driving mass clear-cutting of some of the world’s most biodiverse, carbon-rich forests. As a Postdoctoral Fellow at the Atkinson Center for Sustainability, I am analyzing emerging sustainability and conservation initiatives as they seek to engage a range of actors along Chinese dominated supply chains. China is the top consumer of natural rubber globally, and the spread of rubber is a major contributor to deforestation and landscape simplification in the region, but Chinese firms are resistant to market-based environmental incentives and new to collaborating with civil society groups. I work directly with policymakers in China and Laos, and in partnership with environmental organizations (Oxfam, Forest Trends, the World Agroforestry Centre, and the Mekong Region Land Governance Project) in carrying out this research. This work contributes to the sustainable governance of supply chains in which Chinese firms play a central role, and debates over China’s role in limiting tropical deforestation and improving rural livelihoods across Southeast Asia.</p>
+<div class="row">
+<div class="column"><img loading="lazy" style="width: 449px;" src="https://julietlu.com/media/posts/6/IMG_4663.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://julietlu.com/media/posts/6/responsive/IMG_4663-xs.jpg 300w ,https://julietlu.com/media/posts/6/responsive/IMG_4663-sm.jpg 480w ,https://julietlu.com/media/posts/6/responsive/IMG_4663-md.jpg 768w ,https://julietlu.com/media/posts/6/responsive/IMG_4663-lg.jpg 1024w ,https://julietlu.com/media/posts/6/responsive/IMG_4663-xl.jpg 1360w ,https://julietlu.com/media/posts/6/responsive/IMG_4663-2xl.jpg 1600w"  alt="Rubber tree" height="599"></div>
+<div class="column"><img loading="lazy" style="width: 100%;" src="https://julietlu.com/media/posts/6/IMG_4665.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://julietlu.com/media/posts/6/responsive/IMG_4665-xs.jpg 300w ,https://julietlu.com/media/posts/6/responsive/IMG_4665-sm.jpg 480w ,https://julietlu.com/media/posts/6/responsive/IMG_4665-md.jpg 768w ,https://julietlu.com/media/posts/6/responsive/IMG_4665-lg.jpg 1024w ,https://julietlu.com/media/posts/6/responsive/IMG_4665-xl.jpg 1360w ,https://julietlu.com/media/posts/6/responsive/IMG_4665-2xl.jpg 1600w"  alt="Forest of rubber trees"></div>
+</div>
+<p> </p>
+<p class="align-left"><strong>Illicit Crop Geographies</strong></p>
+<p class="align-left smallspace">A pivotal driver in the rubber boom in northern Laos was the Chinese state’s promotion of the crop as a sustainable and economically viable alternative to opium cultivation. Drawing on my research on rubber’s entanglements with the politics of opium eradication in Laos and China, I am in the process of completing multiple writing projects in collaboration with other scholars studying how illicit commodity production intersects with environmental governance issues. </p>
+<div class="row">
+<div class="column"><figure class="post__image"><img loading="lazy"  style="width: 573px;" src="https://julietlu.com/media/posts/6/IMG_0738.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://julietlu.com/media/posts/6/responsive/IMG_0738-xs.JPG 300w ,https://julietlu.com/media/posts/6/responsive/IMG_0738-sm.JPG 480w ,https://julietlu.com/media/posts/6/responsive/IMG_0738-md.JPG 768w ,https://julietlu.com/media/posts/6/responsive/IMG_0738-lg.JPG 1024w ,https://julietlu.com/media/posts/6/responsive/IMG_0738-xl.JPG 1360w ,https://julietlu.com/media/posts/6/responsive/IMG_0738-2xl.JPG 1600w"  alt="Sign" height="430"></figure></div>
+<div class="column"><figure class="post__image"><img loading="lazy"  style="width: 4128px;" src="https://julietlu.com/media/posts/6/ORP-YNSF-Sign.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://julietlu.com/media/posts/6/responsive/ORP-YNSF-Sign-xs.jpg 300w ,https://julietlu.com/media/posts/6/responsive/ORP-YNSF-Sign-sm.jpg 480w ,https://julietlu.com/media/posts/6/responsive/ORP-YNSF-Sign-md.jpg 768w ,https://julietlu.com/media/posts/6/responsive/ORP-YNSF-Sign-lg.jpg 1024w ,https://julietlu.com/media/posts/6/responsive/ORP-YNSF-Sign-xl.jpg 1360w ,https://julietlu.com/media/posts/6/responsive/ORP-YNSF-Sign-2xl.jpg 1600w"  alt="Advertisement" height="2322"></figure></div>
+</div>
+<p> </p>
+<p class="align-center"><strong>Grounded, Publicly Engaged Scholarship</strong></p>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://julietlu.com/media/posts/6/IMG_5024.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://julietlu.com/media/posts/6/responsive/IMG_5024-xs.jpg 300w ,https://julietlu.com/media/posts/6/responsive/IMG_5024-sm.jpg 480w ,https://julietlu.com/media/posts/6/responsive/IMG_5024-md.jpg 768w ,https://julietlu.com/media/posts/6/responsive/IMG_5024-lg.jpg 1024w ,https://julietlu.com/media/posts/6/responsive/IMG_5024-xl.jpg 1360w ,https://julietlu.com/media/posts/6/responsive/IMG_5024-2xl.jpg 1600w"  alt="" width="4032" height="3024"></figure>
+<p class="align-left smallspace">My research agenda is, by necessity and also design, publicly engaged, collaborative and impact-oriented. This approach is motivated by the five years I spent working in the environmental sector in China (World Agroforestry Centre, 2009-11) and Laos (Centre for Development and Environment, 2012-13) prior to my graduate studies. To ensure the practical relevance and on-the-ground impact of my research, I work directly with policymakers and private sector actors in China and Laos, and conduct research in partnership with environmental organizations (Oxfam, Mekong Region Land Governance, and Forest Trends). I publish not only in academic fora but also in topical and regional blogs and other media outlets, and co-host the “Belt and Road Podcast” which features research, news, and in-depth analysis of China’s global investments. Communicating across this diversity of forums helps me to sharpen and clarify my own arguments and breathes meaning into the questions that drive my research.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Me</title>
         <author>
             <name>Juliet Lu</name>
         </author>
         <link href="https://julietlu.com/bioabout.html"/>
         <id>https://julietlu.com/bioabout.html</id>
 
-        <updated>2021-01-11T14:29:48-05:00</updated>
+        <updated>2021-02-04T17:55:47-05:00</updated>
             <summary>
                 <![CDATA[
-                    I am a political ecologist with a focus on the implications of China’s growing investments in land and other resources across the world. I draw on and aim to contribute to conversations in the fields of geography, sociology, and anthropology. While I engage with a&hellip;
+                        <img src="https://julietlu.com/media/posts/1/Namtha-Market-Dinner.jpg" alt="Juliet Lu" />
+                    I am a political ecologist who focuses on the implications of China’s growing investments in land and other resources across the world. I&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I am a political ecologist with a focus on the implications of China’s growing investments in land and other resources across the world. I draw on and aim to contribute to conversations in the fields of geography, sociology, and anthropology. While I engage with a variety of sources of data and methods, I focus on local cases I consider reflective of global trends and prioritize the collection of on-the-ground empirical data through long-term field work in China, Laos.</p>
-<p>My dissertation (UC Berkeley) explored the rapid rise in Chinese agribusiness investments in Laos, with a focus on rubber plantations. It highlights connections between the Chinese state and companies (state and private) operating beyond its borders, the territorial dimensions of the plantation economy in contrast to smallholder production, and how crops seen as having ‘strategic’ importance to national development shape livelihoods, environments, and trajectories of agrarian change differently. </p>
-<p>In my postdoctoral work, I expand my focus to China’s role in the global rubber supply chain. I ask how emerging private sector, civil society, and state initiatives for sustainable rubber engage Chinese stakeholders and, vice versa, how Chinese actors along the rubber supply chain understand and adapt to these calls for sustainability. </p>
-<p>In my research, writing, and teaching work, connecting with an interdisciplinary set of debates with relevance to academics, policymakers, and the general public is my priority. I consider these engagements important to enhancing the quality and relevance of my work and inspiring the broader direction of my scholarly inquiries. </p>
+                    <img src="https://julietlu.com/media/posts/1/Namtha-Market-Dinner.jpg" alt="Juliet Lu" />
+                <p>I am a political ecologist who focuses on the implications of China’s growing investments in land and other resources across the world. I draw on and aim to contribute to conversations in geography, sociology, and anthropology. I engage with various data and methods sources, but focus on the local cases that reflect global trends and prioritize on-the-ground empirical data through long-term fieldwork in China, Laos.</p>
+<p>My dissertation (UC Berkeley) explored the rapid rise in Chinese agribusiness investments in Laos, with a focus on rubber plantations. It highlights connections between the Chinese state and companies (state and private) operating beyond its borders and the territorial dimensions of the plantation economy in contrast to smallholder production. It also illustrates how crops believed to have ‘strategic’ importance to national development actually shape livelihoods, environments, and trajectories of agrarian change differently.</p>
+<p>In my postdoctoral work, I expand my focus to China’s role in the global rubber supply chain. I ask how emerging private sector, civil society, and state initiatives for sustainable rubber engage Chinese stakeholders and, vice versa, how Chinese actors along the rubber supply chain understand and adapt to these calls for sustainability.</p>
+<p>Throughout my research, writing, and teaching, my priority is to connect my findings to an interdisciplinary set of debates and to engage with academics, policymakers, and the general public. I consider these engagements important to enhancing the quality and relevance of my work and inspiring the broader direction of my scholarly inquiries.</p>
 
             ]]>
         </content>
