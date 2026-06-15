@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "1197796d70cfae26d531ff9f423b20f2"
+        "md5": "44d109bd2baf247daf4c5ac09180a50a"
     },
     {
         "path": "about-me.html",
         "type": "file",
-        "md5": "364d6613aa4f4b36d88c8067787da9eb"
+        "md5": "6d46987a16eb526b7533b792ecfbd83c"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "3423acf105bf780c49da0ff61cb77586"
+        "md5": "2d1bdce8fe12707e410def7febd7bc46"
     },
     {
         "path": "assets/dynamic",
@@ -87,42 +87,42 @@
     {
         "path": "/authors/juliet-lu/index.html",
         "type": "file",
-        "md5": "d894ae3fe2f63d0856ff6123eaf7ae2c"
+        "md5": "518a57578248c6f6656c21a06cd51892"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "93d7aff96f73697b9513c42846c27fc5"
+        "md5": "322f92253ef2de25a93385e0ab7b34ef"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "3d6270ee8b6849f9aba4f552768b41bf"
+        "md5": "a953b00745badbf793286d9c162e91b8"
     },
     {
         "path": "field-work.html",
         "type": "file",
-        "md5": "cc1908278f768efa7d82743297cf65ed"
+        "md5": "8a33fdeb4a2e2817bff61c85c1bd2ec2"
     },
     {
         "path": "gallery.html",
         "type": "file",
-        "md5": "1d93c238f593da636832c780884e1751"
+        "md5": "f14ef6b748c31f905b3aa8ab813c0b45"
     },
     {
         "path": "global-political-ecology-group.html",
         "type": "file",
-        "md5": "9c064078bb338432c784928043be943f"
+        "md5": "d0cf185decbce7219dc32a588a536003"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a1e67f05d1a754569bc8006789362824"
+        "md5": "a102f25624228c5a16c68c344777353a"
     },
     {
         "path": "launch-of-project-tracc.html",
         "type": "file",
-        "md5": "7920d2abb01faba792e393e52df4a1e3"
+        "md5": "c1afcbff48b3b57e90e702505e13e80a"
     },
     {
         "path": "media",
@@ -145,14 +145,14 @@
         "md5": "5b8a2274b1e3e01d834347c59420cac6"
     },
     {
-        "path": "/media/posts/1/ChatGPT-Image-Jun-3-2026-01_39_40-PM-3.png",
-        "type": "file",
-        "md5": "8a28de1a32f43860e5cb818134b5917c"
-    },
-    {
         "path": "/media/posts/1/Kumeh-Headshot.jpg",
         "type": "file",
         "md5": "0a80ab22d30bb364630fb55c34611106"
+    },
+    {
+        "path": "/media/posts/1/Logo-TRACC-Project.png",
+        "type": "file",
+        "md5": "8a28de1a32f43860e5cb818134b5917c"
     },
     {
         "path": "/media/posts/1/Lu_Juliet-2-2-2.jpg",
@@ -205,36 +205,6 @@
         "md5": "69f943b45ffcda2c9fc0e2f9051baab2"
     },
     {
-        "path": "/media/posts/1/responsive/ChatGPT-Image-Jun-3-2026-01_39_40-PM-3-2xl.png",
-        "type": "file",
-        "md5": "96842e651510d757a9d3570e3072f1ce"
-    },
-    {
-        "path": "/media/posts/1/responsive/ChatGPT-Image-Jun-3-2026-01_39_40-PM-3-lg.png",
-        "type": "file",
-        "md5": "96842e651510d757a9d3570e3072f1ce"
-    },
-    {
-        "path": "/media/posts/1/responsive/ChatGPT-Image-Jun-3-2026-01_39_40-PM-3-md.png",
-        "type": "file",
-        "md5": "6bb41e4899fb2d7c7480bed3ea2245bf"
-    },
-    {
-        "path": "/media/posts/1/responsive/ChatGPT-Image-Jun-3-2026-01_39_40-PM-3-sm.png",
-        "type": "file",
-        "md5": "a2a592cf48db8474983a6255908cbddb"
-    },
-    {
-        "path": "/media/posts/1/responsive/ChatGPT-Image-Jun-3-2026-01_39_40-PM-3-xl.png",
-        "type": "file",
-        "md5": "96842e651510d757a9d3570e3072f1ce"
-    },
-    {
-        "path": "/media/posts/1/responsive/ChatGPT-Image-Jun-3-2026-01_39_40-PM-3-xs.png",
-        "type": "file",
-        "md5": "14e89c7c845572a81bfa977c0815425a"
-    },
-    {
         "path": "/media/posts/1/responsive/Kumeh-Headshot-2xl.jpg",
         "type": "file",
         "md5": "d0c336c39dc29f1193b4c91d8672aacd"
@@ -263,6 +233,36 @@
         "path": "/media/posts/1/responsive/Kumeh-Headshot-xs.jpg",
         "type": "file",
         "md5": "1ab40216690f7d0a8e10ab1e120c261c"
+    },
+    {
+        "path": "/media/posts/1/responsive/Logo-TRACC-Project-2xl.png",
+        "type": "file",
+        "md5": "96842e651510d757a9d3570e3072f1ce"
+    },
+    {
+        "path": "/media/posts/1/responsive/Logo-TRACC-Project-lg.png",
+        "type": "file",
+        "md5": "96842e651510d757a9d3570e3072f1ce"
+    },
+    {
+        "path": "/media/posts/1/responsive/Logo-TRACC-Project-md.png",
+        "type": "file",
+        "md5": "6bb41e4899fb2d7c7480bed3ea2245bf"
+    },
+    {
+        "path": "/media/posts/1/responsive/Logo-TRACC-Project-sm.png",
+        "type": "file",
+        "md5": "a2a592cf48db8474983a6255908cbddb"
+    },
+    {
+        "path": "/media/posts/1/responsive/Logo-TRACC-Project-xl.png",
+        "type": "file",
+        "md5": "96842e651510d757a9d3570e3072f1ce"
+    },
+    {
+        "path": "/media/posts/1/responsive/Logo-TRACC-Project-xs.png",
+        "type": "file",
+        "md5": "14e89c7c845572a81bfa977c0815425a"
     },
     {
         "path": "/media/posts/1/responsive/Lu_Juliet-2-2-2-2xl.jpg",
@@ -355,6 +355,36 @@
         "md5": "8c657605c15089fb0c94e4e420096e3c"
     },
     {
+        "path": "/media/posts/1/responsive/resume-pci-2xl.JPG",
+        "type": "file",
+        "md5": "beb01901edf546b6a0d8462edac36e38"
+    },
+    {
+        "path": "/media/posts/1/responsive/resume-pci-lg.JPG",
+        "type": "file",
+        "md5": "beb01901edf546b6a0d8462edac36e38"
+    },
+    {
+        "path": "/media/posts/1/responsive/resume-pci-md.JPG",
+        "type": "file",
+        "md5": "beb01901edf546b6a0d8462edac36e38"
+    },
+    {
+        "path": "/media/posts/1/responsive/resume-pci-sm.JPG",
+        "type": "file",
+        "md5": "beb01901edf546b6a0d8462edac36e38"
+    },
+    {
+        "path": "/media/posts/1/responsive/resume-pci-xl.JPG",
+        "type": "file",
+        "md5": "beb01901edf546b6a0d8462edac36e38"
+    },
+    {
+        "path": "/media/posts/1/responsive/resume-pci-xs.JPG",
+        "type": "file",
+        "md5": "beb01901edf546b6a0d8462edac36e38"
+    },
+    {
         "path": "/media/posts/1/responsive/unknown-2-5-2xl.jpg",
         "type": "file",
         "md5": "4ed6b4074561fa2a23961ccd0783d6d5"
@@ -383,6 +413,11 @@
         "path": "/media/posts/1/responsive/unknown-2-5-xs.jpg",
         "type": "file",
         "md5": "e3b50779a8fa6d5b9b0c8a314c2a169c"
+    },
+    {
+        "path": "/media/posts/1/resume-pci.JPG",
+        "type": "file",
+        "md5": "740f720b79472f8bc82fbe12f3616306"
     },
     {
         "path": "/media/posts/1/unknown-2-5.jpg",
@@ -915,6 +950,51 @@
         "md5": "c80165c0ac80a5e639138a8e9c0d0d47"
     },
     {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/Logo-TRACC-Project.png",
+        "type": "file",
+        "md5": "8a28de1a32f43860e5cb818134b5917c"
+    },
+    {
+        "path": "media/posts/14/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/responsive/Logo-TRACC-Project-2xl.png",
+        "type": "file",
+        "md5": "96842e651510d757a9d3570e3072f1ce"
+    },
+    {
+        "path": "/media/posts/14/responsive/Logo-TRACC-Project-lg.png",
+        "type": "file",
+        "md5": "96842e651510d757a9d3570e3072f1ce"
+    },
+    {
+        "path": "/media/posts/14/responsive/Logo-TRACC-Project-md.png",
+        "type": "file",
+        "md5": "6bb41e4899fb2d7c7480bed3ea2245bf"
+    },
+    {
+        "path": "/media/posts/14/responsive/Logo-TRACC-Project-sm.png",
+        "type": "file",
+        "md5": "a2a592cf48db8474983a6255908cbddb"
+    },
+    {
+        "path": "/media/posts/14/responsive/Logo-TRACC-Project-xl.png",
+        "type": "file",
+        "md5": "96842e651510d757a9d3570e3072f1ce"
+    },
+    {
+        "path": "/media/posts/14/responsive/Logo-TRACC-Project-xs.png",
+        "type": "file",
+        "md5": "14e89c7c845572a81bfa977c0815425a"
+    },
+    {
         "path": "media/posts/3",
         "type": "directory",
         "md5": false
@@ -1050,14 +1130,14 @@
         "md5": "e36a5f73ff6306b7844ba146a9cc3f8f"
     },
     {
-        "path": "/media/posts/4/Pasted-Graphic.jpg",
-        "type": "file",
-        "md5": "96b0107149a9b19c1a26509bbb6c68f2"
-    },
-    {
         "path": "/media/posts/4/Peak-of-Vancouver.jpg",
         "type": "file",
         "md5": "165b2f544ec0cbf08652d7905793f603"
+    },
+    {
+        "path": "/media/posts/4/d0ddc8c9-2e69-4a76-861b-d3f1e2ca4aec.jfif",
+        "type": "file",
+        "md5": "4c1fd1ed3e90191afecf9664519f9ef0"
     },
     {
         "path": "/media/posts/4/miranda-720x960.jpg",
@@ -1220,11 +1300,6 @@
         "md5": "13ce98b91af591ddf4c80c3ed0b53ce6"
     },
     {
-        "path": "/media/posts/4/responsive/Pasted-Graphic-2xl.jpg",
-        "type": "file",
-        "md5": "2d74f851439b567f36cfa22a2decacfc"
-    },
-    {
         "path": "/media/posts/4/responsive/Pasted-Graphic-3-cropped-3-2xl.jpg",
         "type": "file",
         "md5": "a4fc04040d1269401b0e5f788d97c8e0"
@@ -1373,31 +1448,6 @@
         "path": "/media/posts/4/responsive/Pasted-Graphic-8-xs.jpg",
         "type": "file",
         "md5": "1abb49c1bcf6149e31578945ace38fa9"
-    },
-    {
-        "path": "/media/posts/4/responsive/Pasted-Graphic-lg.jpg",
-        "type": "file",
-        "md5": "2d74f851439b567f36cfa22a2decacfc"
-    },
-    {
-        "path": "/media/posts/4/responsive/Pasted-Graphic-md.jpg",
-        "type": "file",
-        "md5": "2d74f851439b567f36cfa22a2decacfc"
-    },
-    {
-        "path": "/media/posts/4/responsive/Pasted-Graphic-sm.jpg",
-        "type": "file",
-        "md5": "2d74f851439b567f36cfa22a2decacfc"
-    },
-    {
-        "path": "/media/posts/4/responsive/Pasted-Graphic-xl.jpg",
-        "type": "file",
-        "md5": "2d74f851439b567f36cfa22a2decacfc"
-    },
-    {
-        "path": "/media/posts/4/responsive/Pasted-Graphic-xs.jpg",
-        "type": "file",
-        "md5": "2d74f851439b567f36cfa22a2decacfc"
     },
     {
         "path": "/media/posts/4/responsive/Peak-of-Vancouver-2xl.jpg",
@@ -1590,9 +1640,9 @@
         "md5": false
     },
     {
-        "path": "/media/website/IMG_9077.jpg",
+        "path": "/media/website/Namtha-Market-Dinner.jpg",
         "type": "file",
-        "md5": "1eb64d42850c6933c3c66be906b383ca"
+        "md5": "09d63f403873ee9545c8e5f7fce61743"
     },
     {
         "path": "media/website/responsive",
@@ -1600,39 +1650,39 @@
         "md5": false
     },
     {
-        "path": "/media/website/responsive/IMG_9077-2xl.jpg",
+        "path": "/media/website/responsive/Namtha-Market-Dinner-2xl.jpg",
         "type": "file",
-        "md5": "68a17f994db60bd4ed69adcf47500ceb"
+        "md5": "0c645c58906856b355ecdc4a12117d92"
     },
     {
-        "path": "/media/website/responsive/IMG_9077-lg.jpg",
+        "path": "/media/website/responsive/Namtha-Market-Dinner-lg.jpg",
         "type": "file",
-        "md5": "e81ccdab9edd3d87b365f4143b9d2f73"
+        "md5": "0c645c58906856b355ecdc4a12117d92"
     },
     {
-        "path": "/media/website/responsive/IMG_9077-md.jpg",
+        "path": "/media/website/responsive/Namtha-Market-Dinner-md.jpg",
         "type": "file",
-        "md5": "d7f6d2b011e317e741fc641ad3e5ca44"
+        "md5": "0c645c58906856b355ecdc4a12117d92"
     },
     {
-        "path": "/media/website/responsive/IMG_9077-sm.jpg",
+        "path": "/media/website/responsive/Namtha-Market-Dinner-sm.jpg",
         "type": "file",
-        "md5": "e8be5e84bc7ffd4e3433e3375f09c02b"
+        "md5": "7e65b388e36f97d0bbdac38cf54497d9"
     },
     {
-        "path": "/media/website/responsive/IMG_9077-xl.jpg",
+        "path": "/media/website/responsive/Namtha-Market-Dinner-xl.jpg",
         "type": "file",
-        "md5": "6f7cea32ab7934bc724c85b75a13cb9f"
+        "md5": "0c645c58906856b355ecdc4a12117d92"
     },
     {
-        "path": "/media/website/responsive/IMG_9077-xs.jpg",
+        "path": "/media/website/responsive/Namtha-Market-Dinner-xs.jpg",
         "type": "file",
-        "md5": "eb431829ed70eee251231ec504bd2e81"
+        "md5": "f79b3da957afb6bc1abf16eec7a4e057"
     },
     {
         "path": "research.html",
         "type": "file",
-        "md5": "109610b6941489826052acbe8208bd75"
+        "md5": "98a95d2167e84cbe02622c85c81b1860"
     },
     {
         "path": "robots.txt",
@@ -1642,17 +1692,17 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "010788a9327e3168af3fc90db6c9f99e"
+        "md5": "927ecb7d6b5f820b4c59204a5985da5c"
     },
     {
         "path": "selected-work.html",
         "type": "file",
-        "md5": "885ab90622f5d5c1a5050d257d5ad1cc"
+        "md5": "9087a93c260d9cd06dcb2eae882af129"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "243a293c5d99a3e1c6aa29514cf9f4b0"
+        "md5": "a96520115155cddcff6283569a1eb1d8"
     },
     {
         "path": "sitemap.xsl",
@@ -1662,7 +1712,7 @@
     {
         "path": "sustainable-china-lab.html",
         "type": "file",
-        "md5": "578a0f3e184b46cff2c4b078a3e16b21"
+        "md5": "24982e28ab5a84fb410a06c4c0d1f1e0"
     },
     {
         "path": "tags",
@@ -1672,7 +1722,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "6c82aec645ed530ec1bd2345d8930127"
+        "md5": "ede2467ba5d2536efb9fac69053b4fd0"
     },
     {
         "path": "tags/news",
@@ -1682,16 +1732,16 @@
     {
         "path": "/tags/news/index.html",
         "type": "file",
-        "md5": "b745989b392e4553ecc40b88053129bb"
+        "md5": "1faded26a6ecc4ef28678ae132392bff"
     },
     {
         "path": "teaching.html",
         "type": "file",
-        "md5": "8cd5edea20c13836e868a0526409c65f"
+        "md5": "b90dc2b86d7f96e317c875b46e43bd82"
     },
     {
         "path": "tracc.html",
         "type": "file",
-        "md5": "fd6f3d0ac7dc09e166d8e250f722468d"
+        "md5": "aaf78b2afd62576c11f6b1981c6d51ef"
     }
 ]
